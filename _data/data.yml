@@ -14,11 +14,10 @@ sidebar:
     # Sidebar links
     email: adityasaputra3141@gmai.com
     phone: 081312215103
-    facebook: https://www.facebook.com/aditya.saputra.773
+    website: https://www.facebook.com/aditya.saputra.773
     github: adityasaputra22
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,13 +31,13 @@ sidebar:
 
 
     interests:
-      - item: Climbing
+      - item: Chess
         link:
 
-      - item: Snowboarding
+      - item: Card Game
         link:
 
-      - item: Cooking
+      - item: Literature
         link:
 
 career-profile:
