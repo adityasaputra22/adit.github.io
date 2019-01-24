@@ -12,8 +12,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: adityasaputra3141@gmai.com
-    phone: 081312215103
+    email: adityasaputra3141@gmail.com
+    phone: +6281312215103
     website: https://www.facebook.com/aditya.saputra.773
     github: adityasaputra22
     gitlab:
@@ -79,7 +79,7 @@ education:
           - Bullet point
 
 experiences:
-    - role: Staff dan Penanggung jawab Kajian dan Literature
+    - role: Staff dan Penanggung jawab Sementara Divisi Kajian dan Literature
       time: 2017 - 2019
       company: IMT 'Signum' ITB
       details: |
@@ -89,7 +89,7 @@ experiences:
         kajian terkait keilmuan-keilmuan telekounikasi dan membuat infografis
         untuk membagi informasi kajian yang dilakukan. Selain melakukan kajian, 
         saat menjadi staff juga aktif menulis artikel-artikel telekomunikasi 
-        dalam bentuk triviamaupun berita yang disebarkan di official Account
+        dalam bentuk trivia maupun berita yang disebarkan di official Account
         IMT Signum ITB.
         
         Contoh isu Kajian yang sudah dilakukan
@@ -97,101 +97,76 @@ experiences:
           - Bitcoin dan mata uang sekarang
           - Indonesia menghadapi industri 4.0
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Ketua Divisi Kajian Dan Karya
+      time: 2018 - 2019
+      company: Unit Kebudayaan Banten Debust ITB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Berpengalaman sebagai Ketua divisi Kajian dan karya di Unit Kebudayaan
+        Banten Debust ITB. sudah melakukan kajian terhadap isu-isu yang terjadi
+        di Daerah banten dan memikirkan solusi untuk beberapa permasalahan.
+        Selain melakukan kajian, di divisi ini juga dilakukan pengabdian
+        masyrakat untuk anak-anak yatim piatu di daerah serang, banten dan 
+        memberikan bantun untuk korban tsunami di anyer 2019.
 
-          - Bullet point
-          - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Staff Sponsorship Rapid Chess Series 2018
+      time: 2017 - 2018
+      company: Percama ITB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        Berpengalaman sebagai staff divisi sponsorship di acara Rapid Chess
+        series yang merupakan acara tournament catur antar universitas
+        yang diadakan oleh unit catur ITB. saat di divisi turut serta 
+        membantu mencarikan sponsor-sponsor dari berbgai perusahaan besar
+        seperti BNI, c95 dan XL sehingga menghasilkan pengalaman berkomunikasi.
+        
+        
+    - role: Tournament Organizer Tourney Weekly Yu-gi-oh
+      time: 2019
+      company: Percama ITB
+      details: |
+        Pernah berpengalaman sebagai salah satu Tournament Organizer
+        salah satu hobi yang dilakukan bersama-sama dengan komunitas bandung
+        duelist. sebagai komunitas luar kuliah pengalaman ini meningkatkan 
+        skill komunikasi dengan orang-orang baru dan rasa peka terhadap
+        orang-orang dengan kondisi bermacam-macam.
+       
+             
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Sebagai anggota Bengkel radio di IMT 'Signum' ITB, beberapa proyek
+      sudah dikerjakan. Proyek utama yang sudah dikerjakan adalah
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Server Bengkel Radio
+        link: https://bengkrad.com/
+        tagline: Website untuk repository dan pengenalan terhadap bengkel radio itu sendiri. Saat ini sedang dikembangkan
 
-      - title: DevStudio
+      - title: Pendeteksi Suara Kambing
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: Membuat pendeteksi suara kambing untuk mengetahui kebetuhuan dan hewan tersebut. Proyek sudah dihentikan 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Pascal
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Arduino
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C
         level: 60%
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      - name: Routing & Switching
+        level: 90%
+
+      - name: HFSS
+        level: 70%
+
+
