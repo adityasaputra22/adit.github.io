@@ -8,8 +8,8 @@
     {% endif %}
 
     {% if sidebar.facebook %}
-    <li class="facebook"><i class="fas fa-facebook-f"></i>
-      <a href="http://faceboo.com.com/{{ sidebar.facebook }}" target="_blank">{{ sidebar.facebook }}</a>
+    <li class="facebook"><i class="fas fa-facebook"></i>
+      <a href="http://facebook.com/{{ sidebar.facebook }}" target="_blank">{{ sidebar.facebook }}</a>
     </li>
     {% endif %}
 
@@ -18,6 +18,7 @@
       <a href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
 {% endif %}
+    
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
