@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -79,22 +79,23 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Staff dan Penanggung jawab Kajian dan Literature
+      time: 2017 - 2019
+      company: IMT 'Signum' ITB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+        Berpengalaman sebagai Anggota divisi kajian dan literature IMT signum 
+        ITB dan menjadi Penanggung Jawab Sementara untuk beberapa saat serta
+        pernah dinobatkan sebagai Best Staff. Sudah melakukakn berbagai macam
+        kajian terkait keilmuan-keilmuan telekounikasi dan membuat infografis
+        untuk membagi informasi kajian yang dilakukan. Selain melakukan kajian, 
+        saat menjadi staff juga aktif menulis artikel-artikel telekomunikasi 
+        dalam bentuk triviamaupun berita yang disebarkan di official Account
+        IMT Signum ITB.
+        
+        Contoh isu Kajian yang sudah dilakukan
+          - Persiapan indonesia dalam Menghadapi 5G
+          - Bitcoin dan mata uang sekarang
+          - Indonesia menghadapi industri 4.0
 
     - role: Senior Software Engineer
       time: 2014 - 2015
