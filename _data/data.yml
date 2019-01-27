@@ -77,7 +77,7 @@ education:
           - Bullet point
           - Bullet point
 
-experiences:
+experiences: 
     - role: Staff dan Penanggung jawab Sementara Divisi Kajian dan Literature
       time: 2017 - 2019
       company: IMT 'Signum' ITB
@@ -130,7 +130,7 @@ experiences:
         orang-orang dengan kondisi bermacam-macam.
        
      - role: Others
-      time: 1998-2019
+      time:
       company: 
       details: |
           - Certified HCNA Routing & Switching
